@@ -1,5 +1,5 @@
 ---
-title: 滞后时间模式
+title: 延迟模式
 ms.date: 03/30/2017
 ms.technology: dotnet-standard
 helpviewer_keywords:
